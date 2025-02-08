@@ -1,8 +1,6 @@
+## Выбор кофемашины
+
 ```mermaid
----
-title: Выбор кофемашины
-footer: "Схема 1: Выбор кофемашины"
----
 %%{
   init: {
     'flowchart': { 'curve': 'stepBefore' },
