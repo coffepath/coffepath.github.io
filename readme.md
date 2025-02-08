@@ -1,21 +1,6 @@
 ## Выбор кофемашины
 
 ```mermaid
-%%{
-  init: {
-    'flowchart': { 'curve': 'stepBefore' },
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#E3EBFF',
-      'primaryTextColor': '#262626',
-      'primaryBorderColor': '#5282FF',
-      'lineColor': '#5282FF',
-      'secondaryColor': '#FFF',
-      'clusterBkg': '#FFF',
-      'clusterBorder': '#5282FF'
-    }
-  }
-}%%
 
 flowchart TD
     classDef noteStyle fill:#FFF2BF, stroke:#F4F7FF, stroke-width:1px;
