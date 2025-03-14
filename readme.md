@@ -1,6 +1,10 @@
 ## Выбор кофемашины
 
-любоый текст
+Канал про кофе: 
+
+Статья для прочтения: https://shop.tastycoffee.ru/blog/kofemashina-dlya-doma
+
+По итогам общения в чате получилось такая схема:
 
 ```mermaid
 
@@ -75,3 +79,9 @@ flowchart TD
   kofevarka --> PhillipsKapel
 
 ```
+
+Ещё варианты от коллег:
+1. https://www.ozon.ru/product/kitfort-kofevarka-kombinirovannaya-kofevarka-kitfort-kt-7126-1856817630/
+2. https://goldapple.ru/19000286226-kt-789
+3. https://www.ozon.ru/product/kofemashina-delonghi-dinamica-plus-ecam380-85-sb-1450vt-serebristyy-chernyy-1687680964/
+4. https://delonghi.ru/product/de-longhi-kofemashina-etam-29-660-sb/
